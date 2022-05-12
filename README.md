@@ -1,1 +1,3 @@
-# SuperHexagon_Clone
+# SuperHexagon Clone
+
+I MEAN YOU ALREADY KNOW THE CONTROLE !!! 
