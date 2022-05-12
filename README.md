@@ -1,3 +1,5 @@
 # SuperHexagon Clone
 
-I MEAN YOU ALREADY KNOW THE CONTROLE !!! 
+Practicing my game dev skills
+
+I MEAN YOU ALREADY KNOW THE CONTROLS !!! 
